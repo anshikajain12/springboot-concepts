@@ -1,9 +1,9 @@
-package com.spirngbootproject.learningspringboot.flowstructure.Service;
+package com.springbootproject.flowstructure.Service;
 
-import com.spirngbootproject.learningspringboot.flowstructure.DTO.PaymentRequest;
-import com.spirngbootproject.learningspringboot.flowstructure.DTO.PaymentResponse;
-import com.spirngbootproject.learningspringboot.flowstructure.Entity.PaymentEntity;
-import com.spirngbootproject.learningspringboot.flowstructure.Repository.PaymentRepository;
+import com.springbootproject.flowstructure.DTO.PaymentRequest;
+import com.springbootproject.flowstructure.DTO.PaymentResponse;
+import com.springbootproject.flowstructure.Entity.PaymentEntity;
+import com.springbootproject.flowstructure.Repository.PaymentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package com.spirngbootproject.learningspringboot.flowstructure.Repository;
+package com.springbootproject.flowstructure.Repository;
 
-import com.spirngbootproject.learningspringboot.flowstructure.DTO.PaymentRequest;
-import com.spirngbootproject.learningspringboot.flowstructure.Entity.PaymentEntity;
+import com.springbootproject.flowstructure.DTO.PaymentRequest;
+import com.springbootproject.flowstructure.Entity.PaymentEntity;
 import org.springframework.stereotype.Repository;
 
 @Repository

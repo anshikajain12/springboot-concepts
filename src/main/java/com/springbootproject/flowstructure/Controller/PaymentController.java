@@ -1,8 +1,8 @@
-package com.spirngbootproject.learningspringboot.flowstructure.Controller;
+package com.springbootproject.flowstructure.Controller;
 
-import com.spirngbootproject.learningspringboot.flowstructure.DTO.PaymentRequest;
-import com.spirngbootproject.learningspringboot.flowstructure.DTO.PaymentResponse;
-import com.spirngbootproject.learningspringboot.flowstructure.Service.PaymentService;
+import com.springbootproject.flowstructure.DTO.PaymentRequest;
+import com.springbootproject.flowstructure.DTO.PaymentResponse;
+import com.springbootproject.flowstructure.Service.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

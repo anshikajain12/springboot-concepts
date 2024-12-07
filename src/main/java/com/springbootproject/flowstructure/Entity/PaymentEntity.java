@@ -1,4 +1,4 @@
-package com.spirngbootproject.learningspringboot.flowstructure.Entity;
+package com.springbootproject.flowstructure.Entity;
 
 public class PaymentEntity {
     private long id;

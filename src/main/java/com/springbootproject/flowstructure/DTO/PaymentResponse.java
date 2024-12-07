@@ -1,4 +1,4 @@
-package com.spirngbootproject.learningspringboot.flowstructure.DTO;
+package com.springbootproject.flowstructure.DTO;
 
 public class PaymentResponse {
     private Long paymentId;
